@@ -2,19 +2,41 @@
 
 🎯 Data Analyst | Data Science Graduate  
 
-## 📂 Projects
+---
+
+## 📊 Projects
 
 ### 📈 Demand Forecasting
-Time-series forecasting using Prophet to predict future demand trends.
+- Built time-series forecasting model using Prophet  
+- Captured seasonal trends and generated 30-day predictions  
+- Improved demand planning insights  
+
+![Forecast](demand-forecasting/outputs/forecast.png)
+
+---
 
 ### 👥 Customer Segmentation
-K-Means clustering model to segment customers based on behavior.
+- Applied K-Means clustering to segment customers  
+- Identified 5 distinct behavioral groups  
+- Enabled targeted marketing strategies  
+
+![Clusters](customer-segmentation/outputs/clusters.png)
+
+---
 
 ### 🚨 Anomaly Detection
-Isolation Forest model to detect unusual patterns in operational data.
+- Built Isolation Forest model to detect anomalies  
+- Identified extreme operational values (top ~10%)  
+- Improved data quality monitoring  
+
+![Anomalies](anomaly-detection/outputs/anomalies.png)
+
+---
 
 ## 🛠 Skills
-Python | SQL | Pandas | Machine Learning | Data Analysis
+Python | SQL | Pandas | Machine Learning | Data Analysis  
+
+---
 
 ## 📫 Contact
 Email: rebinfathah@gmail.com
