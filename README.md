@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Rebin
+Passionate about solving real-world problems using data-driven insights.
 
 🎯 Data Analyst | Data Science Graduate
 
