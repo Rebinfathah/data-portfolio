@@ -6,6 +6,10 @@ Passionate about solving real-world problems using data-driven insights.
 ---
 
 ## 📊 Projects
+🔗 Quick Access:
+- [Demand Forecasting](demand-forecasting)
+- [Customer Segmentation](customer-segmentation)
+- [Anomaly Detection](anomaly-detection)
 
 ### 📈 Demand Forecasting
 
