@@ -9,8 +9,8 @@
 ### 📈 Demand Forecasting
 
 * Built time-series forecasting model using Prophet
-* Captured seasonal trends and generated 30-day predictions
-* Improved demand planning insights
+* Captured seasonal trends and generated 30-day forecasts
+* Supported demand planning and inventory decision-making
 
 ![Forecast](demand-forecasting/outputs/forecast.png)
 
@@ -20,7 +20,7 @@
 
 * Applied K-Means clustering to segment customers
 * Identified 5 distinct behavioral groups
-* Enabled targeted marketing strategies
+* Enabled targeted marketing and customer strategy
 
 ![Clusters](customer-segmentation/outputs/clusters.png)
 
@@ -30,7 +30,7 @@
 
 * Built Isolation Forest model to detect anomalies
 * Identified extreme values (~10–15% outliers)
-* Improved operational data monitoring
+* Improved operational data quality monitoring
 
 ![Anomalies](anomaly-detection/outputs/anomalies.png)
 
